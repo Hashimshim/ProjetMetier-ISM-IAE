@@ -25,7 +25,7 @@ export default function TransitionExample() {
             <ModalHeader>C’est quoi le contrôle gestion ?</ModalHeader>
             <ModalCloseButton />
             <ModalBody>
-            <span style={{ fontWeight: 'bold' }}>Le contrôle de gestion</span> consiste à organiser et contrôler la gestion économique (définition d'objectifs, indicateurs d'activité, mesure de performance, ...) mais aussi d'une structure (entreprise, filiale, collectivité territoriale, ...) et en optimise la rentabilité financière selon les choix stratégiques décidés par les instances dirigeantes et les règlementations (commerciales, fiscales et financières). 
+            <span style={{ fontWeight: 'bold' }}>Le contrôle de gestion</span> consiste à organiser et contrôler la gestion économique (définition d'objectifs, indicateurs d'activité, mesure de performance, ...) mais aussi d'une structure (entreprise, filiale, collectivité territoriale, ...) et en optimisant la rentabilité financière selon les choix stratégiques décidés par les instances dirigeantes et les règlementations (commerciales, fiscales et financières). 
             <br/><br/><br/>Le contrôleur de gestion peut réaliser des études prospectives de résultats de la structure mais aussi peut jouer un rôle de manager est coordonner une équipe.
             
             </ModalBody>

@@ -31,7 +31,7 @@ export default function SimpleThreeColumns() {
           icon={<Icon as={FcKindle} w={10} h={10} />}
           title={'Les savoirs ?'}
           text={
-            'Ce métier exigé de multitude de savoir ,voici une liste non exhaustive : '
+            'Ce métier exige une multitude de savoir ,voici une liste non exhaustive : '
           }
         />       
       

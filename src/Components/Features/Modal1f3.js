@@ -25,7 +25,7 @@ export default function TransitionExample() {
             <ModalHeader>Les savoir-faire ?</ModalHeader>
             <ModalCloseButton />
             <ModalBody>
-            Ce métier exigé de multitude de savoir-faire voici une liste non exhaustive :<br/><br/>
+            Ce métier exige une multitude de savoir-faire voici une liste non exhaustive :<br/><br/>
             <ul style={{paddingLeft:"20px"}}>
               <li>Concevoir des indicateurs</li>
               <li>Piloter les indicateurs de gestion </li>

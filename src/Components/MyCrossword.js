@@ -5,25 +5,25 @@ import styled, { css } from 'styled-components'
  const data = {
         across: {
           3: {
-            clue: 'Gain,réduction volontaire de l\'effort,sobriété,dans une activité, une oeuvre',
+            clue: 'Ensemble de ce qui concerne la production, la répartition et la consommation des richesses et de l\'activité',
             answer: 'ECONOMIE',
             row: 1,
             col: 7,
           },
           6:{
-            clue:"Le Diplôme Supérieur de Comptabilité et de Gestion",
+            clue:"Un diplôme d'Etat de Grade Master.",
             answer:'DSCG',
             row:3,
             col:2,
           },
           9:{
-            clue:"Publication qui sert de guide",
+            clue:"Outils d'évaluation et d'aide à la décision",
             answer:'INDICATEURS',
             row:5,
             col:0,
           },
           10:{
-            clue:"Action d'administer des affaires publiques ou privées,gestion",
+            clue:"Action de gérer un bien, un ensemble de biens",
             answer:'ADMINISTRATION',
             row:7,
             col:6,
@@ -31,37 +31,37 @@ import styled, { css } from 'styled-components'
         },
         down: {
           5: {
-            clue: "Contrôle de la comptabilité et de la gestion d'une société",
+            clue: "Procédure de contrôle de la comptabilité et de la gestion d'une entreprise",
             answer:'AUDIT',
             row:2,
             col:0,
           },
           2: {
-            clue: "Action, manière de gérer, d'organiser, d'administrer, de diriger",
+            clue: "Management en français  ",
             answer: 'GESTION',
             row:1,
             col:3,
           },
           8: {
-            clue: "Fait de pouvoir exiger d'autrui en fonction des règles sociales",
+            clue: "Ensemble des règles juridiques officielles établies par la société dans le but d'organiser les rapports entre les personnes",
             answer: 'DROIT',
             row:4,
             col:9,
           },
           1: {
-            clue: "Système de lois et de dispositions relatives au fisc, à l'administration des finances",
+            clue: "Pratiques utilisées par un État ou une collectivité pour percevoir des impôts et autres prélèvements obligatoires.",
             answer: 'FISCALITE',
             row:0,
             col:13,
           },
           4: {
-            clue: "Rapport d'activité dans une entreprise, généralement rendu public et annexé au bilan",
+            clue: "Expression anglophone de la communication de données",
             answer: 'REPORTING',
             row:1,
             col:17,
           },
           7: {
-            clue: "Ensemble des recettes et dépenses",
+            clue: "Consiste à fournir l'argent nécessaire à la réalisation d'une opération économique.",
             answer: 'FINANCE',
             row:3,
             col:19,

@@ -43,14 +43,14 @@ function App() {
     </Box>
 
     </Box>
-    <Testimonial/>
+
     <Box padding={10} >  
       <AspectRatio maxH={500} maxW={1800} ratio={2.5}>
       <iframe
         width="1200"
         height="300"
         title='naruto'
-        src='https://www.youtube.com/embed/iIdq6PzFnDQ'
+        src='https://www.youtube.com/embed/1dVucdKccH8'
         allow="accelerometer;autoplay;clipboard-write;picture-to-picture;"
         allowFullScreen
       />
@@ -67,6 +67,7 @@ function App() {
     <Heading as='h3' size='4xl'>Jeu de mots croisés</Heading>
       <MyCrossword/>
     </Box>
+    <Testimonial/>
     <Footer/>
     </>
   );

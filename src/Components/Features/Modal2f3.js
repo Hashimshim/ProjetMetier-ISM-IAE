@@ -26,9 +26,9 @@ export default function TransitionExample() {
             <ModalCloseButton />
             <ModalBody>
             L'activité de ce métier s'exerce au sein de grandes entreprises, de Petites et Moyennes Entreprises de plus
-             de 200 salariés. <br/><br/>Vous l’avez bien compris on peut travail dans tous les secteurs
-             d’activités et au sein de plein de structure différente comme Association, Cabinet comptable,
-              Collectivité territoriale, Entreprise Moyenne ou encore les entreprises publique/établissements public. 
+             de 200 salariés. <br/><br/>Vous l’avez bien compris on peut travailler dans tous les secteurs
+             d’activités et au sein de plein de structures différentes comme Association, Cabinet comptable,
+              Collectivité territoriale, Entreprise Moyenne ou encore les entreprises publiques/établissements publics. 
 
             
             </ModalBody>

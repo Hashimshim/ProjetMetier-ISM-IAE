@@ -25,7 +25,7 @@ export default function TransitionExample() {
             <ModalHeader>Les savoirs ?</ModalHeader>
             <ModalCloseButton />
             <ModalBody>
-            Ce métier exigé de multitude de savoir voici une liste non exhaustive :
+            Ce métier exige une multitude de savoir voici une liste non exhaustive :
             <br/><br/>
             <ul style={{paddingLeft:"20px"}}>
               <li>Fiscalité</li>

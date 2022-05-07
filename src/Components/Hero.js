@@ -57,6 +57,7 @@ import hero from '../hero.png'
               spacing={{ base: 4, sm: 6 }}
               direction={{ base: 'column', sm: 'row' }}>
               <Button
+                cursor={'auto'}
                 rounded={'full'}
                 size={'lg'}
                 fontWeight={'normal'}

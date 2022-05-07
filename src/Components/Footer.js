@@ -51,13 +51,13 @@ import {
           align={{ base: 'center', md: 'center' }}>
           <Text>© 2022 Projet métier ISM-IAE</Text>
           <Stack direction={'row'} spacing={6}>
-            <SocialButton label={'Twitter'} href={'#'}>
+            <SocialButton label={'Twitter'} href={'https://twitter.com/MetierProjet'}>
               <FaTwitter />
             </SocialButton>
-            <SocialButton label={'YouTube'} href={'#'}>
+            {/* <SocialButton label={'YouTube'} href={'#'}>
               <FaYoutube />
-            </SocialButton>
-            <SocialButton label={'Instagram'} href={'#'}>
+            </SocialButton> */}
+            <SocialButton label={'Instagram'} href={'https://www.instagram.com/projet.metier2022/'}>
               <FaInstagram />
             </SocialButton>
           </Stack>

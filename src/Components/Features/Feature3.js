@@ -32,7 +32,7 @@ export default function SimpleThreeColumns() {
           icon={<Icon as={FcApprove} w={10} h={10} />}
           title={'Les savoir-faire ?'}
           text={
-            'Ce métier exigé de multitude de savoir-faire voici une liste non exhaustive: ...'
+            'Ce métier exige une multitude de savoir-faire voici une liste non exhaustive: ...'
           }
         />
   );

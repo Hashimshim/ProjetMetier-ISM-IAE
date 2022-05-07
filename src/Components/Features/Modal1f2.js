@@ -27,7 +27,7 @@ export default function TransitionExample() {
             <ModalBody>
             Si ce métier vous intéresse il faut savoir que pour y accéder il vous faut au minimum un master (M1, DSCG, Master professionnel, diplôme de grandes écoles, ...) en comptabilité, contrôle de gestion,
              gestion financière, gestion d'entreprise.<br/><br/> Une expérience ou une connaissance du secteur d'activité de l'entreprise peut être demandée. La pratique d'une langue étrangère, en particulier l'anglais, 
-             peut être exigée. C’est formation peuvent être accessible en alternance.
+             peut être exigée. Ces formations peuvent être accessible en alternance.
             
             </ModalBody>
             <ModalFooter>
