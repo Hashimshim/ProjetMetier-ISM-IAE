@@ -51,7 +51,7 @@ import hero from '../hero.png'
             <p> &nbsp;&nbsp;•	Contrôleur / Contrôleuse de gestion d'usine<br/>
             &nbsp;&nbsp;•	 Contrôleur / Contrôleuse de gestion de groupe<br/>
             &nbsp;&nbsp;•	Contrôleur / Contrôleuse de gestion financière<br/></p>
-            Mais sur ce site internet nous allons vous parler surtout de celui qui se rapproche le plus des ressources humaines qui est celui de contrôleur de gestion SOCIAL. 
+            Mais sur ce site internet nous allons vous parler surtout de celui qui se rapproche le plus des ressources humaines qui est celui de contrôleur de gestion SOCIALE. 
             </Text>
             <Stack
               spacing={{ base: 4, sm: 6 }}

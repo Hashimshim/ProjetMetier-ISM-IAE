@@ -30,7 +30,7 @@ export default function SimpleThreeColumns() {
     
         <Feature2
           icon={<Icon as={FcGraduationCap} w={10} h={10} />}
-          title={'Les formations ?'}
+          title={'Formation et pré-requis ?'}
           text={
             'Si ce métier vous intéresse il faut savoir que pour y accéder il vous faut au minimum ...'
           }

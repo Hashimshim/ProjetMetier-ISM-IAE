@@ -22,11 +22,10 @@ export default function TransitionExample() {
         >
           <ModalOverlay />
           <ModalContent>
-            <ModalHeader>C’est quoi le contrôle gestion ?</ModalHeader>
+            <ModalHeader>C’est quoi le métier ?</ModalHeader>
             <ModalCloseButton />
             <ModalBody>
-            <span style={{ fontWeight: 'bold' }}>Le contrôle de gestion</span> consiste à organiser et contrôler la gestion économique (définition d'objectifs, indicateurs d'activité, mesure de performance, ...) mais aussi d'une structure (entreprise, filiale, collectivité territoriale, ...) et en optimisant la rentabilité financière selon les choix stratégiques décidés par les instances dirigeantes et les règlementations (commerciales, fiscales et financières). 
-            <br/><br/><br/>Le contrôleur de gestion peut réaliser des études prospectives de résultats de la structure mais aussi peut jouer un rôle de manager est coordonner une équipe.
+            Le rôle principal du <span style={{ fontWeight: 'bold' }}>contrôleur de gestion sociale (CGS) </span>  – également appelé chargé d’études RH - consiste à replacer l’humain au cœur des statistiques. Il permet aux ressources humaines de proposer des actions concrètes pour améliorer la gestion des RH. Toutefois, il ne faut pas confondre le métier de CGS avec celui de contrôleur de gestion, chargé de la gestion financière de l’entreprise.
             
             </ModalBody>
             <ModalFooter>

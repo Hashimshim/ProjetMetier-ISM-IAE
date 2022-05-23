@@ -60,13 +60,14 @@ function App() {
     <Heading as='h3' size='4xl'>Quiz</Heading><br/><br/>
     <Quiz/>
     </Box>
-    <Box paddingLeft={50} paddingRight={30}>
-      <HookForm/>
-    </Box>
     <Box padding={20}>
     <Heading as='h3' size='4xl'>Jeu de mots croisés</Heading>
       <MyCrossword/>
     </Box>
+    <Box paddingLeft={50} paddingRight={30}>
+      <HookForm/>
+    </Box>
+    
     <Testimonial/>
     <Footer/>
     </>

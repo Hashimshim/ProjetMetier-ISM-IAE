@@ -27,13 +27,11 @@ export default function TransitionExample() {
             <ModalBody>
             Ce métier exige une multitude de savoir-faire voici une liste non exhaustive :<br/><br/>
             <ul style={{paddingLeft:"20px"}}>
-              <li>Concevoir des indicateurs</li>
-              <li>Piloter les indicateurs de gestion </li>
-              <li>Identifier les risques liés à une gestion d'entreprise </li>
-              <li>Déterminer des mesures correctives </li>
-              <li>Mettre en place le contrôle interne d'une structure </li>
-              <li>Proposer des solutions d'optimisation de rentabilité de la structure </li>
-              <li>Conseiller une entreprise en matière de gestion comptable</li>
+              <li>Collecter des informations sur la masse salariale de l’entreprise (gestion du temps, grève, mobilité, turn-over, absentéisme…). </li>
+              <li>Effectuer un reporting mensuel des données. </li>
+              <li>Réaliser les documents obligatoires : bilan social, déclaration annuelle obligatoire d’emploi des travailleurs handicapés, NAO…</li>
+              <li>Proposer des actions aux ressources humaines pour améliorer la gestion de la masse salariale. </li>
+              <li>Calculer les coûts de la politique RH.</li>
             </ul>
             
             

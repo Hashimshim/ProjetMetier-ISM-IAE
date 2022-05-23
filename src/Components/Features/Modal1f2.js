@@ -22,11 +22,19 @@ export default function TransitionExample() {
         >
           <ModalOverlay />
           <ModalContent>
-            <ModalHeader>Les formations ?</ModalHeader>
+            <ModalHeader>Formation et pré-requis ?</ModalHeader>
             <ModalCloseButton />
             <ModalBody>
-            Si ce métier vous intéresse il faut savoir que pour y accéder il vous faut au minimum un master (M1, DSCG, Master professionnel, diplôme de grandes écoles, ...) en comptabilité, contrôle de gestion,
-             gestion financière, gestion d'entreprise.<br/><br/> Une expérience ou une connaissance du secteur d'activité de l'entreprise peut être demandée. La pratique d'une langue étrangère, en particulier l'anglais, 
+            Si ce métier vous intéresse il faut savoir que pour y accéder il vous faut au minimum un :
+              <ul style={{paddingLeft:"20px"}}>
+                <li>Master en contrôle de gestion sociale.</li>
+                <li>Master en statistiques ou économétrie.</li>
+                <li>Master spécialisé en gestion des ressources humaines.</li>
+                <li>École d’ingénieurs orientée statistiques.</li>
+                <li>École de commerce. </li>
+                <li>IEP avec une spécialisation en ressources humaines.</li>
+              </ul>
+            <br/><br/> Une expérience ou une connaissance du secteur d'activité de l'entreprise peut être demandée. La pratique d'une langue étrangère, en particulier l'anglais, 
              peut être exigée. Ces formations peuvent être accessible en alternance.
             
             </ModalBody>

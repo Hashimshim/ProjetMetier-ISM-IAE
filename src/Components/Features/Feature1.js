@@ -29,9 +29,9 @@ export default function SimpleThreeColumns() {
   
         <Feature1
           icon={<Icon as={FcManager} w={10} h={10} />}
-          title={'C’est quoi le contrôle gestion ?'}
+          title={'C’est quoi le métier ?'}
           text={
-            'Le contrôle de gestion consiste à organiser et contrôler la gestion économique ...'
+            'Le rôle principal du contrôleur de gestion sociale (CGS) consiste à replacer l’humain au cœur des statistiques ...'
           }
         />       
       
